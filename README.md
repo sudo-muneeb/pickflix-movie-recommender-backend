@@ -97,7 +97,7 @@ flowchart LR
 
 
 
-## Frontend Repo: https://github.com/sudo-muneeb/pickflix-movie-recomender
+## Frontend Repo: https://github.com/sudo-muneeb/pickflix-movie-recommender-frontend
 
 ## Getting Started
 
